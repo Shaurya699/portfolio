@@ -124,14 +124,14 @@ export const navItems = [
   export const workExperience = [
     {
       id: 1,
-      title: "Frontend Engineer Intern",
+      title: "Web Development Intern",
       desc: "Assisted in the development of a web-based platform using React.js, enhancing interactivity.",
       className: "md:col-span-2",
       thumbnail: "/exp1.svg",
     },
     {
       id: 2,
-      title: "Copy&Content Writing",
+      title: "Copy & content Writing",
       desc: "Designed a PDF document for my client as per his instructions regarding stocks.",
       className: "md:col-span-2", // change to md:col-span-2
       thumbnail: "/exp2.svg",
